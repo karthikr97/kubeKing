@@ -1,0 +1,7 @@
+{
+  "BASE_PATH" : "/Users/krajashekararaju/.kube/",
+  "QE": {
+    "gke-shared-0.us-east4.qe.gcp.conviva.com" : "qe.config",
+    "gke-shared-1.us-east4.qe.gcp.conviva.com" : "qe2.config"
+  }
+}
